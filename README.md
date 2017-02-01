@@ -1,5 +1,5 @@
 # Clothes-Segmentation
-train clothes segmentation model using deepnet
+Train clothes segmentation model using DeepNet for fun!
 
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.org/nhejazi/stat215a-journal-review.svg?branch=master)](https://travis-ci.org/nhejazi/stat215a-journal-review?branch=master)
